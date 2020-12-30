@@ -9,19 +9,29 @@ export function getUsers(): User[] {
     },
     {
       name: 'user 2',
-      pass: 'abasfasdf',
+      pass: 'abasfasdfa',
       age: 13
     },
     {
       name: 'user 3',
-      pass: 'abasfasdf',
+      pass: 'abasfasdfb',
       age: 14
     },
     {
       name: 'user 4',
-      pass: 'abasfasdf',
+      pass: 'abasfasdfc',
       age: 15
-    }
+    },
+    {
+      name: 'user 5',
+      pass: 'abasfasdfd',
+      age: 16
+    },
+    {
+      name: 'user 6',
+      pass: 'abasfasdfe',
+      age: 17
+    },
   ];
 
   return users;
