@@ -5,7 +5,7 @@ function main(): void  {
   const users: User[] = getUsers();
   
   if (users.length === 0) {
-    console.error('Error: no person could be found');
+    console.error('Error: no person could be found.');
 
     return;
   }
